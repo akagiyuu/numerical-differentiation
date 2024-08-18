@@ -1,0 +1,9 @@
+[package]
+name = "numerical-differentiation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cached = "0.53.1"
+nalgebra = "0.33.0"
+rayon = "1.10.0"
