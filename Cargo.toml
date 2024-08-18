@@ -2,6 +2,13 @@
 name = "numerical-differentiation"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-2.0"
+readme = "README.md"
+repository = "https://github.com/akagiyuu/numerical-differentiation"
+homepage = "https://github.com/tokio-rs/tokio"
+description = """
+A library for approximating n-th differentiation of a function at a given point using numerical methods
+"""
 
 [dependencies]
 cached = "0.53.1"
